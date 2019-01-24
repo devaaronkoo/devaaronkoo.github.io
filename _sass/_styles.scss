@@ -162,7 +162,7 @@ input {
     float: none;
     margin: 0 auto;
     @include clearfix;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .post {
