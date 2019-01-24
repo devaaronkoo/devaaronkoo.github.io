@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            DevAaron
+tagline:          theme
+description:      this is for the inspiration.
+canonical: https://devaaronkoo.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Aaron Koo (Bontae Koo)
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            
+  email:          
+  twitter:        
+  github:         devaaronkoo
+  instagram:      
+  dribbble:       
+  disqus:         DevAaron
+  location:       "Vancouver, Canada"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,9 +31,9 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/devaaronkoo
     external: true
-  - title: Cole Who?
+  - title: Aaron
     url: http://coletownsend.com
     external: true
 
